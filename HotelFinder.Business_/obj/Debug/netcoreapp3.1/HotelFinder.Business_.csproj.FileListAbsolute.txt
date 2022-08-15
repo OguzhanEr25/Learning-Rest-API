@@ -1,0 +1,15 @@
+C:\Users\oguz_\source\repos\HotelFinder\HotelFinder.Business_\bin\Debug\netcoreapp3.1\HotelFinder.Business_.deps.json
+C:\Users\oguz_\source\repos\HotelFinder\HotelFinder.Business_\bin\Debug\netcoreapp3.1\HotelFinder.Business_.dll
+C:\Users\oguz_\source\repos\HotelFinder\HotelFinder.Business_\bin\Debug\netcoreapp3.1\HotelFinder.Business_.pdb
+C:\Users\oguz_\source\repos\HotelFinder\HotelFinder.Business_\bin\Debug\netcoreapp3.1\HotelFinder.DataAccess.dll
+C:\Users\oguz_\source\repos\HotelFinder\HotelFinder.Business_\bin\Debug\netcoreapp3.1\HotelFinder.Entities.dll
+C:\Users\oguz_\source\repos\HotelFinder\HotelFinder.Business_\bin\Debug\netcoreapp3.1\HotelFinder.DataAccess.pdb
+C:\Users\oguz_\source\repos\HotelFinder\HotelFinder.Business_\bin\Debug\netcoreapp3.1\HotelFinder.Entities.pdb
+C:\Users\oguz_\source\repos\HotelFinder\HotelFinder.Business_\obj\Debug\netcoreapp3.1\HotelFinder.Business_.csproj.AssemblyReference.cache
+C:\Users\oguz_\source\repos\HotelFinder\HotelFinder.Business_\obj\Debug\netcoreapp3.1\HotelFinder.Business_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oguz_\source\repos\HotelFinder\HotelFinder.Business_\obj\Debug\netcoreapp3.1\HotelFinder.Business_.AssemblyInfoInputs.cache
+C:\Users\oguz_\source\repos\HotelFinder\HotelFinder.Business_\obj\Debug\netcoreapp3.1\HotelFinder.Business_.AssemblyInfo.cs
+C:\Users\oguz_\source\repos\HotelFinder\HotelFinder.Business_\obj\Debug\netcoreapp3.1\HotelFinder.Business_.csproj.CoreCompileInputs.cache
+C:\Users\oguz_\source\repos\HotelFinder\HotelFinder.Business_\obj\Debug\netcoreapp3.1\HotelFinder.Business_.csproj.CopyComplete
+C:\Users\oguz_\source\repos\HotelFinder\HotelFinder.Business_\obj\Debug\netcoreapp3.1\HotelFinder.Business_.dll
+C:\Users\oguz_\source\repos\HotelFinder\HotelFinder.Business_\obj\Debug\netcoreapp3.1\HotelFinder.Business_.pdb

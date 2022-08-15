@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>C:\Users\oguz_\source\repos\HotelFinder\HotelFinder.API_\HotelFinder.API_.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NSwag.AspNetCore" Version="13.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HotelFinder.Business_\HotelFinder.Business_.csproj" />
+    <ProjectReference Include="..\HotelFinder.Entities\HotelFinder.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

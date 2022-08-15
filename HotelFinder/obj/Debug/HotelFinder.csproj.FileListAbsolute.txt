@@ -1,0 +1,2 @@
+C:\Users\oguz_\source\repos\HotelFinder\HotelFinder\obj\Debug\HotelFinder.csproj.AssemblyReference.cache
+C:\Users\oguz_\source\repos\HotelFinder\HotelFinder\obj\Debug\HotelFinder.csproj.CoreCompileInputs.cache
